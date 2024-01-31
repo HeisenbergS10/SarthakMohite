@@ -3,7 +3,7 @@
 
 #💫 About Me :
 
-📫 You can contact me mihitesarthak12@gmail.com
+📫 You can contact me mohitesarthak12@gmail.com
 
 🌱 I am currently learning Pyhton Programming.
 
