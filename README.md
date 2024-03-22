@@ -5,6 +5,6 @@
 
 📫 You can contact me mohitesarthak12@gmail.com
 
-🌱 I am currently learning Pyhton Programming.
+🌱 I am currently learning Python Programming.
 
 
